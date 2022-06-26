@@ -1,0 +1,6 @@
+structure
+welcome Page
+Welcome to the Registration Portal
+Kindly proceed below to fill the following forms.
+link to action Page
+Thank you!
